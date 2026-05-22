@@ -7,5 +7,3 @@ Current members include
 
 # Projects
 [The CommonMCOBJ Spec](https://github.com/CommonMCOBJ/CommonMCOBJ) is the main star of the show. We also have a [list of exporters](https://github.com/CommonMCOBJ/Exporters) that implement CommonMCOBJ support.
-
-Are you a developer needing reference for implementing or using CommonMCOBJ? Check out [cmc2OBJ](https://github.com/CommonMCOBJ/cmc2obj), the reference implementation for CommonMCOBJ.
